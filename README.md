@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ngunzi
 - 👀 I’m interested in learning coding.
-- 🌱 I’m currently learning nothing of coding,
+- 🌱 I’m currently learning basics of coding.
 - 💞️ I’m looking to collaborate on every coding language available step by step.
 - 📫 How to reach me, just send an email.
 - 😄 Pronouns: He.
